@@ -6,6 +6,9 @@ Melakukan import Liblary
 
 
  
+ 
+ 
+ 
 Menambahkan Class
  ![Picture3](https://user-images.githubusercontent.com/47166278/163698674-7ac28467-a8a0-4315-a051-62b640d6222e.png)
 
@@ -14,8 +17,12 @@ Menambahkan Class
 
 
 
+
+
 Melakukan Perhitungan dengan React-Native
 ![Picture4](https://user-images.githubusercontent.com/47166278/163698679-d08f7696-7c8b-43a0-9bf5-1958cf6119ac.png)
+
+
 
 
 
@@ -30,8 +37,12 @@ Text Input dan memasukkan nilai input
 
 
 
+
 Button untuk melakukan perhitungan Jumlah Uang
 ![Picture6](https://user-images.githubusercontent.com/47166278/163698685-b7158963-4ab2-47df-ac02-52100144c304.png)
+
+
+
 
 
 
@@ -46,9 +57,14 @@ Melihat hasil pada perhitungan Angsuran pertama dan Biaya perbulan selama 5 tahu
 
 
 
+
+
 Hasil ScreenShot pada Aplikasi Project UAS
 Hasil ScreenShot menggunakan Web
 ![Picture8](https://user-images.githubusercontent.com/47166278/163698691-6b33fbfe-1cea-481d-9255-125d25c34843.png)
+
+
+
 
 
 
